@@ -10,6 +10,18 @@ This is a small node library to generate semi-ok passwords for pragmatic human u
 
 This library is NOT meant to generate very strong passwords. The author does not guarantee security, safety, nor anything else. Please always consider what you are protecting when generating a password, and understand that different contexts may necessitate different levels of security and convenience, the two of which are usually at odds with each other.
 
+Examples
+--------
+
+```
+  Pro*fBoats14
+  whichBoat!ng78
+  dramaticTea(h82
+  Dir[ctedShepherd86
+  a+hleticEngine66
+  FormingSold!er59
+```
+
 Usage
 -----
 
