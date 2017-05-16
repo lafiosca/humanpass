@@ -1,0 +1,20 @@
+{
+  "name": "humanpass",
+  "version": "0.1.0",
+  "description": "Passwords for humans",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lafiosca/humanpass.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "security",
+    "human"
+  ],
+  "author": "Joe Lafiosca <joe@lafiosca.com>",
+  "license": "MIT"
+}
